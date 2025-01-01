@@ -43,3 +43,6 @@ Now, we go ahead and gather data to test our alternate hypothesis. We then defin
 Now, we compare the _p-value_ with the significance value, \alpha. It's the threshold to decide when to reject _H0_. It represents the maximum probability of making a Type I error(a false positive). It't the maximum probability of rejecting _H0_ when it's actually true. Now, 
 1. If _p_ < \alpha, we can safely reject _H0_
 2. If _p_ >= \alpha, we cannot sufficiently accept _H0_ 
+
+
+Too much Stats. Abandoning :(
